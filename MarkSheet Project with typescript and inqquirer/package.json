@@ -1,0 +1,19 @@
+{
+  "name": "mr_804marksheet-project-with-typescript-and-inqquirer",
+  "version": "1.0.0",
+  "description": "Their is a simple Marksheet for 5 Subject Students",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
