@@ -50,3 +50,4 @@ else if (percentage > 33 && percentage < 40) {
 else {
     console.log("Invalid your Percentage ");
 }
+// By Sharib Ateeq

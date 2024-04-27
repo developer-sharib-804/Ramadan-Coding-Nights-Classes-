@@ -98,4 +98,5 @@ let goldkg = 19961794;
           console.log("You are Not Eligible For zakat");
         }
     }
+    // By Sharib Ateeq
 
